@@ -1,4 +1,3 @@
-# Correct, no comment
 # 4.5.1.
 # Compute 95% CI for µ1 -µ2 based on the Welch approximate degrees of
 # degrees of freedom method.

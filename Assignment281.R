@@ -1,4 +1,3 @@
-#OK.
 # Assignment 2.8.1.
 # Solve equations using the N-R method.
 

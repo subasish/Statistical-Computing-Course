@@ -1,6 +1,5 @@
 # FINAL PROJECT
-# Subasish Das
-# CLID: sxd1684
+
 
 
 # 2(a).

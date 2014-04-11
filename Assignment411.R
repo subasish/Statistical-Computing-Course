@@ -1,8 +1,3 @@
-# Both seems to work, but the second one is not that accurate
-# try n =30, k=26, cl = .95, and compare the results with the statcalc
-# Problem 4.1.1.
-# Find the 95% score CIs and the corresponding exact CIs for n = 30,
-# k = 5, 18 and 26.
 
 # Score CI:
 bin.score.ci <- function(n,x,cl)

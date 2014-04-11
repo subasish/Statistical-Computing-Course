@@ -1,4 +1,3 @@
-# OK, it works
 # Assignment 4.6.1
 
 mles.gamma <- function(x){

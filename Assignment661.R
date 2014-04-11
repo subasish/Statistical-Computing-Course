@@ -1,5 +1,4 @@
-# Assignment 6.6.1 OK
-# Subasish Das
+# Assignment 6.6.1
 
 cov.prob.bf <- function(nr, n1, n2, sig1, sig2, cl){
 al = (1+cl)/2

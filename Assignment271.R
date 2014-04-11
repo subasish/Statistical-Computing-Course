@@ -1,21 +1,4 @@
 
-# Check yourself:
-#> nrmethod(20,.05) 
-#df= 20 
-#Percentile value= 10.85081 
-# illinois_method(20,.05)
-# df= 20 
-# Percentile value= 10.84879 
-
-#Why this difference? 
-
-
-
-
-
-
-
-
 # Assignment 2.7.1
 # Find 90th and 95th percentiles of
 # chi-square distributions with df= 10, 15 and 20.

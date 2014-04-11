@@ -1,4 +1,3 @@
-# One correction, its OK
 # Assignment 4.7.1
 
 MLE.of.b.and.c<- function(x,y, maxiter=1000)

@@ -1,5 +1,3 @@
-# Works good.
-
 # Problem 4.4.1.
 # Find 95% CIs using the exact method and the score method
 

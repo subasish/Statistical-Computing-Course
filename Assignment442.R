@@ -1,4 +1,3 @@
-# I got the same p-value using statcalc; so it should be correct.
 # Problem 4.4.2.
 # Compute the p-value
 

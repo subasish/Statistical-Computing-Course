@@ -1,4 +1,3 @@
-#OK
 
 NR_widow <- function(xi,lm, maxiter=100){
 iter <- 0 

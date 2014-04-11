@@ -1,4 +1,4 @@
-# Assignment 6.5.1 OK
+# Assignment 6.5.1 
 
 generalized_ci<- function(x, iter, cl){
 
