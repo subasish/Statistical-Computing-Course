@@ -1,4 +1,4 @@
-
+# Statistic Computing
 # Assignment 2.7.1
 # Find 90th and 95th percentiles of
 # chi-square distributions with df= 10, 15 and 20.
