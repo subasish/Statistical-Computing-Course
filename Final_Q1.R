@@ -1,7 +1,4 @@
 # FINAL PROJECT
-
-
-
 # 1(a).
 
 fit_weibull <- function(x)
