@@ -1,8 +1,4 @@
 
-## I have tried to redo my code several times. I made slight changes
-## in the code. The differences are slightly reduced.
-
-
 # Check yourself:
 #> nrmethod(20,.05) 
 #df= 20 
