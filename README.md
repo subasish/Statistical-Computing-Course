@@ -1,3 +1,3 @@
 ### Statistical Computing Course
 
-Repository for a graduate level **STATISTICAL COMPUTING** course. 
+Repository for a graduate level `Statistical Computing` course. 
